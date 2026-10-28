@@ -1,2 +1,2 @@
-# IMS-BOYS-mess-menu
+-mess-menu
 Mess menu IMS college
